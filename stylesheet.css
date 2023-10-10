@@ -6,12 +6,19 @@
     padding: 20px;
 }
 
+.contact{
+    background-color: blue;
+    color: aliceblue;
+    border: 3px solid rebeccapurple;
+    margin: 30px;
+    padding: 30px;
+}
 a{
     color: blue;
 }
 
 a:hover {
-    color: red;
+    color: black;
 }
 
 #id{
