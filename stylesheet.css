@@ -1,0 +1,22 @@
+.info{
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+a{
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+#id{
+    background-color: aliceblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
