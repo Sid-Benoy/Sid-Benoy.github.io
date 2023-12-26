@@ -1,21 +1,32 @@
 .info{
+    text-align: center;
+    border: 3px solid rebeccapurple;
+    margin: 10px;
+    padding: 10px;
     color: white;
-    border: 2px solid black;
-    margin: 20px;
-    padding: 20px;
+    
 }
+h1 { font-family: "Dr"}
 
 .contact{
+    text-align: center;
     background-color: blue;
     color: aliceblue;
     border: 3px solid rebeccapurple;
-    margin: 30px;
-    padding: 30px;
+    margin: 10px;
+    padding: 10px;
 }
 a{
     color: blue;
 }
 
+.picture{
+    text-align: right;
+    border: 3px solid black;
+    margin: 10px;
+    padding: 10px;
+    
+}
 a:hover {
     color: black;
 }
