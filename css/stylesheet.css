@@ -3,15 +3,16 @@
     border: 3px solid rebeccapurple;
     margin: 10px;
     padding: 10px;
-    color: black;
+    color: purple;
     
 }
-h1 { font-family: "Dr"}
+h1 { font-family: 'Droid Sans', Arial, serif}
+p {font-family: 'Courier New', Courier, monospace;}
 
 .contact{
     text-align: center;
     background-color: blue;
-    color: black;
+    color: orange;
     border: 3px solid rebeccapurple;
     margin: 10px;
     padding: 10px;
