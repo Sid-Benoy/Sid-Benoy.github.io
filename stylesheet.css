@@ -3,7 +3,7 @@
     border: 3px solid rebeccapurple;
     margin: 10px;
     padding: 10px;
-    color: white;
+    color: black;
     
 }
 h1 { font-family: "Dr"}
@@ -11,7 +11,7 @@ h1 { font-family: "Dr"}
 .contact{
     text-align: center;
     background-color: blue;
-    color: aliceblue;
+    color: black;
     border: 3px solid rebeccapurple;
     margin: 10px;
     padding: 10px;
